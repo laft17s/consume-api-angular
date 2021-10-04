@@ -1,0 +1,16 @@
+.card__main {
+    background-color: lighten($color: $primary, $amount: 10.0);
+    text-align: center;
+}
+
+.card__info {
+    color: $dark-grey;
+}
+
+.card__info h5 {
+    font-weight: bold;
+}
+
+.card__info p {
+    font-size: small;
+}
